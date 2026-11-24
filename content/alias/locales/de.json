@@ -1,0 +1,119 @@
+{
+  "setup": {
+    "title": "ALIAS",
+    "teams": "Teams",
+    "addTeam": "Team hinzufügen",
+    "targetScore": "Zielpunktzahl",
+    "pts": "Pkt.",
+    "roundDuration": "Rundendauer",
+    "duration": "Dauer",
+    "sec": "Sek.",
+    "gameMode": "Spielmodus",
+    "classic": "Klassisch",
+    "arcade": "Arcade",
+    "language": "Sprache",
+    "english": "Englisch",
+    "armenian": "Հայերեն",
+    "teamWordsLanguage": "Wörter auf",
+    "useDefault": "Standard",
+    "sound": "Ton",
+    "appearance": "Erscheinungsbild",
+    "system": "System",
+    "light": "Hell",
+    "dark": "Dunkel",
+    "showMore": "Mehr anzeigen",
+    "more": "Mehr",
+    "vibration": "Vibration",
+    "startGame": "Spiel starten",
+    "editMembers": "Mitglieder bearbeiten",
+    "membersHint": "Lege Namen und Wortsprache für jedes Teammitglied fest. Die Wörter werden während des Zugs jedes Mitglieds in der gewählten Sprache angezeigt.",
+    "memberDefaultName": "Mitglied %{number}",
+    "memberNamePlaceholder": "Name",
+    "memberWordsLanguage": "Wörter auf",
+    "addMember": "Mitglied hinzufügen",
+    "confirmMembers": "Speichern"
+  },
+  "language": {
+    "en": "English",
+    "hy": "Հայերեն",
+    "it": "Italiano",
+    "de": "Deutsch",
+    "ru": "Русский"
+  },
+  "flags": {
+    "en": "🇬🇧",
+    "hy": "🇦🇲",
+    "it": "🇮🇹",
+    "de": "🇩🇪",
+    "ru": "🇷🇺"
+  },
+  "flagsText": {
+    "en": "EN",
+    "hy": "HY",
+    "it": "IT",
+    "de": "DE",
+    "ru": "RU"
+  },
+  "countdown": {
+    "getReady": "Fertig machen!",
+    "hint": "Beschreibe das Wort, ohne es zu sagen!",
+    "arcadeMode": "Arcade-Modus",
+    "classicMode": "Klassischer Modus"
+  },
+  "play": {
+    "loading": "Laden...",
+    "skip": "Überspringen",
+    "correct": "Richtig"
+  },
+  "alert": {
+    "exitRound": "Runde verlassen?",
+    "exitRoundMessage": "Dein aktueller Fortschritt wird gespeichert. Jetzt beenden?",
+    "cancel": "Abbrechen",
+    "exit": "Beenden",
+    "endGame": "Spiel beenden?",
+    "endGameMessage": "Bist du sicher, dass du das Spiel beenden und zur Einrichtung zurückkehren möchtest?",
+    "endGameConfirm": "Spiel beenden"
+  },
+  "review": {
+    "editRound": "Runde bearbeiten",
+    "roundOver": "Runde vorbei!",
+    "correct": "Richtig",
+    "wrong": "Falsch",
+    "total": "Gesamt",
+    "noWords": "In dieser Runde wurden keine Wörter beantwortet",
+    "confirmResults": "Ergebnisse bestätigen",
+    "card": "Karte"
+  },
+  "scoreboard": {
+    "title": "Punktestand",
+    "total": "Gesamt",
+    "firstToWins": "Wer zuerst %{score} Punkte erreicht, gewinnt",
+    "nextUp": "Als nächstes",
+    "startRound": "Runde starten"
+  },
+  "winner": {
+    "congratulations": "Herzlichen Glückwunsch!",
+    "points": "Punkte",
+    "finalStandings": "Abschlusstabelle",
+    "newGame": "Neues Spiel"
+  },
+  "notFound": {
+    "title": "Hoppla!",
+    "message": "Dieser Bildschirm existiert nicht.",
+    "goHome": "Zur Startseite!"
+  },
+  "error": {
+    "title": "Etwas ist schiefgelaufen",
+    "message": "Bitte starte die App neu, um fortzufahren.",
+    "tryAgain": "Erneut versuchen",
+    "details": "Fehlerdetails"
+  },
+  "common": {
+    "team": "Team",
+    "teamNumber": "Team %{number}"
+  },
+  "members": {
+    "count": "%{count} Mitglieder",
+    "edit": "Bearbeiten"
+  }
+}
